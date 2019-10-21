@@ -1,2 +1,2 @@
 # Neural-Network
-Simple class for feedforward neural network.
+Simple functions for feedforward neural network.
